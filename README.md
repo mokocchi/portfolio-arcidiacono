@@ -138,3 +138,12 @@ Focused on reverse engineering and stabilization of inherited systems.
 
 - Crane paper (Springer): [https://link.springer.com/chapter/10.1007/978-3-031-14599-5_5]  
 - LinkedIn: [https://www.linkedin.com/in/j2-arcidiacono/]
+
+## How to use this portfolio
+
+If you're reviewing this as part of a hiring process, I recommend:
+
+1. Start with `crane/` for distributed systems and orchestration fundamentals.
+2. Then check `aws-china-migration/` and `infra-migrations/` for large-scale AWS work.
+3. Look at `healthcare-saas-incidents/` for incident response and debugging under pressure.
+4. Finally, see `robotics-llm/` and `virtual-idol/` for creative, real-time and AI-driven systems.
