@@ -99,9 +99,6 @@ This blueprint already follows several best practices:
 * S3 bucket with full public access block
 * Lifecycle policies for backup retention
 * Instance bootstrap via SSM (no public SSH required)
-
-> **Note:** Some lab-friendly settings (e.g., EC2 instances with public IPs, RDS final snapshot disabled) are intentionally relaxed for simplicity. Production deployments should tighten these according to organizational policies.
-
 ---
 
 ## 🎯 Why this project exists
@@ -128,6 +125,4 @@ It is ideal for:
 
 This repository is intended for educational and professional portfolio use.
 You may reuse the patterns and code freely under the MIT License.
-
-```
 
