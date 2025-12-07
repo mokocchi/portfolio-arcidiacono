@@ -1,4 +1,4 @@
-# Felipe Arcidiacono – Engineering Portfolio
+# Jose Felipe Arcidiacono – Engineering Portfolio
 A curated collection of distributed systems, cloud infrastructure, incident response, and real-time automation projects.
 
 This repository highlights work across:
@@ -138,9 +138,3 @@ Focused on reverse engineering and stabilization of inherited systems.
 
 - Crane paper (Springer): [https://link.springer.com/chapter/10.1007/978-3-031-14599-5_5]  
 - LinkedIn: [https://www.linkedin.com/in/j2-arcidiacono/]
-
----
-
-# Contact
-
-linkedin.com/in/j2-arcidiacono
